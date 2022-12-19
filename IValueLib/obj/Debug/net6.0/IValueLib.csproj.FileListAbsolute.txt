@@ -1,0 +1,12 @@
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\bin\Debug\net6.0\IValueLib.deps.json
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\bin\Debug\net6.0\IValueLib.dll
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\bin\Debug\net6.0\IValueLib.pdb
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\obj\Debug\net6.0\IValueLib.csproj.AssemblyReference.cache
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\obj\Debug\net6.0\IValueLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\obj\Debug\net6.0\IValueLib.AssemblyInfoInputs.cache
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\obj\Debug\net6.0\IValueLib.AssemblyInfo.cs
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\obj\Debug\net6.0\IValueLib.csproj.CoreCompileInputs.cache
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\obj\Debug\net6.0\IValueLib.dll
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\obj\Debug\net6.0\refint\IValueLib.dll
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\obj\Debug\net6.0\IValueLib.pdb
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\IValueLib\obj\Debug\net6.0\ref\IValueLib.dll

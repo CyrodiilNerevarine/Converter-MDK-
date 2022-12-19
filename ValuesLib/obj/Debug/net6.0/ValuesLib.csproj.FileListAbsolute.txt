@@ -1,0 +1,15 @@
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\bin\Debug\net6.0\ValuesLib.deps.json
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\bin\Debug\net6.0\ValuesLib.dll
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\bin\Debug\net6.0\ValuesLib.pdb
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\bin\Debug\net6.0\IValueLib.dll
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\bin\Debug\net6.0\IValueLib.pdb
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\obj\Debug\net6.0\ValuesLib.csproj.AssemblyReference.cache
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\obj\Debug\net6.0\ValuesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\obj\Debug\net6.0\ValuesLib.AssemblyInfoInputs.cache
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\obj\Debug\net6.0\ValuesLib.AssemblyInfo.cs
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\obj\Debug\net6.0\ValuesLib.csproj.CoreCompileInputs.cache
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\obj\Debug\net6.0\ValuesLib.csproj.CopyComplete
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\obj\Debug\net6.0\ValuesLib.dll
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\obj\Debug\net6.0\refint\ValuesLib.dll
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\obj\Debug\net6.0\ValuesLib.pdb
+D:\Users\Vlad\Downloads\Converter-converter\Converter-converter\ValuesLib\obj\Debug\net6.0\ref\ValuesLib.dll
